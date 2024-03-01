@@ -32,3 +32,4 @@ Bu uç noktalara HTTP GET isteği yaparak veri alabilirsiniz.
 ## Geliştirme
 
 Eğer eklentiyi geliştirmek istiyorsanız, kodları `wpcenter-custom-endpoint.php` dosyasında bulabilirsiniz.
+Postman Collection Eklenti dosyasının içerisinde mevcut `WPCenter.postman_collection.json` dosyasını postman/insomnia üzerinde import ederek inceleyebilirsiniz 
